@@ -27,7 +27,7 @@ public class MyTestCasesDataBase {
 
 	public void setup() throws SQLException {
 
-		con = DriverManager.getConnection("jdbc:mysql://localhost:3306/classicmodels", "root", "q1w2e3r4T5@");
+		con = DriverManager.getConnection("jdbc:mysql://localhost:3306/classicmodels", "root", "123@");
 
 	}
 
